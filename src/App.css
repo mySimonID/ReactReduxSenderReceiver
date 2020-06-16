@@ -1,0 +1,31 @@
+.App {
+  text-align: left;
+  font-size:16px
+}
+
+h1 {
+  font-size: 3.1em;
+}
+
+h3 {
+  margin-top:2px;
+  font-size: 2.1em;
+}
+
+.component-container {
+   margin-top:40px;
+   margin-left:auto;
+   margin-right:auto;
+   padding:0;
+}
+
+.component-border {
+  border: 1px solid #ccc;
+  min-height: 200px;
+  padding:20px;
+}
+
+.message-box {
+  background: #eee;
+  padding:5px;
+}
