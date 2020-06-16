@@ -1,6 +1,6 @@
 # ReactReduxSenderReceiver
 
-Example of using React/Redux.
+Example of using React/Redux. [link](https://mysimonid.github.io/ReactReduxSenderReceiver/)
 
 ## Tech
 - React
